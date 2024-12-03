@@ -1,1 +1,1 @@
-# my-game
+# Slot Machine Game
